@@ -13,10 +13,10 @@ list of useful open source tools
 * [slide in html](https://github.com/impress/impress.js/)[![GitHub stars](https://img.shields.io/github/stars/impress/impress.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/impress/impress.js)
 * [simple icons](https://github.com/danleech/simple-icons)[![GitHub stars](https://img.shields.io/github/stars/danleech/simple-icons.svg?style=social&label=Star&maxAge=2592000)](https://github.com/danleech/simple-icons)
 
-# Reasource List
+# Resources List
 ## Complete refrence
 * [3rend](https://github.com/github-serendipity/github-serendipity.github.io)[![GitHub stars](https://img.shields.io/github/stars/github-serendipity/github-serendipity.github.io.svg?style=social&label=Star&maxAge=2592000)](https://github.com/github-serendipity/github-serendipity.github.io)
-
+* [lecture courses](https://github.com/prakhar1989/awesome-courses)[![GitHub stars](https://img.shields.io/github/stars/prakhar1989/awesome-courses.svg?style=social&label=Star&maxAge=2592000)](https://github.com/prakhar1989/awesome-courses)
 
 # Learning
 ## Bash
