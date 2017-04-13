@@ -1,6 +1,6 @@
 # All
 
-[ALL](index.md)
+[Home](index.md)
 
 [Web]()
 
@@ -23,6 +23,6 @@
   * [Java EE](prog/j2ee.md)
   * [Java ME](prog/j2me.md)
 
-[gimmick:theme (inverse: false)](spacelab)
+[gimmick:theme (inverse: false)](readable)
 
 [gimmick:forkmeongithub](http://github.com/ghaseminya/all)
