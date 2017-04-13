@@ -1,27 +1,33 @@
-# All
+
+# MDwiki
 
 [About](index.md)
 
-[Web]()
+[Docs]()
 
-  * [Frontend](frontend.md)
-  * [Editor](layout.md)
-  
-[Resource]()
+  * [Quickstart](quickstart.md)
+  * [Layout](layout.md)
+  * [FAQ](faq.md)
+  - - - -
+  * # Advanced
+  * [Customizing](customizing.md)
 
-  * [Complete refrence](ref.md)
+[Gimmicks](gimmicks.md)
 
 [Tutorials]()
 
-  * [Computer Science](cs.md)
-  * [Bash](bash.md)
-  
-[Programming]()
+  * [About the Tutorials](tutorials.md)
+  - - - -
+  * [Hosting with GitHub](tutorials/github.md)
+  * [Hosting with Google Drive](tutorials/drive.md)
+  * [Use with Dropbox](tutorials/dropbox.md)
+  * [Set up MDwiki on IIS](tutorials/iis/iis.md)
 
-  * [Java SE](j2se.md)
-  * [Java EE](j2ee.md)
-  * [Java ME](j2me.md)
-
+[Examples](examples.md)
+[Download](download.md)
+[Contribute](contribute/index.md)
+[Blog](blog.md)
+[Forum](forum.md)
 
 
 [gimmick:theme (inverse: false)](spacelab)
@@ -30,3 +36,19 @@
 
 [gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki/)
 
+<!-- counter pixel for counting visitors -->
+<!-- <img src="http://stats.markdown.io/mdwiki_info.gif" style="display:none;"/> -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-44627253-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
