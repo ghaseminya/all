@@ -4,24 +4,24 @@
 
 [Web]()
 
-  * [Frontend](frontend.md)
-  * [Editor](layout.md)
+  * [Frontend](web/frontend.md)
+  * [Editor](web/layout.md)
   
 [Resource]()
 
-  * [Complete refrence](ref.md)
-  * [Tutorial](tut.md)
+  * [Complete refrence](res/ref.md)
+  * [Tutorial](res/tut.md)
 
 [Tutorials]()
 
-  * [Computer Science](cs.md)
-  * [Bash](bash.md)
+  * [Computer Science](tut/cs.md)
+  * [Bash](tut/bash.md)
   
 [Programming]()
 
-  * [Java SE](j2se.md)
-  * [Java EE](j2ee.md)
-  * [Java ME](j2me.md)
+  * [Java SE](prog/j2se.md)
+  * [Java EE](prog/j2ee.md)
+  * [Java ME](prog/j2me.md)
 
 [gimmick:theme (inverse: false)](spacelab)
 
