@@ -5,7 +5,7 @@
 [Web]()
 
   * [Frontend](web/frontend.md)
-  * [Editor](web/layout.md)
+  * [Editor](web/editor.md)
   
 [Resource]()
 
