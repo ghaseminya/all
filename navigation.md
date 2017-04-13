@@ -25,4 +25,6 @@
 
 [gimmick:theme (inverse: false)](readable)
 
+[gimmick:ThemeChooser](Change theme)
+
 [gimmick:forkmeongithub](http://github.com/ghaseminya/all)
