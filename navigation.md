@@ -8,6 +8,7 @@
   * [Editor](layout.md)
   
 [Resource]()
+
   * [Complete refrence](ref.md)
 
 [Tutorials]()
@@ -16,9 +17,11 @@
   * [Bash](bash.md)
   
 [Programming]()
+
   * [Java SE](j2se.md)
   * [Java EE](j2ee.md)
   * [Java ME](j2me.md)
+
 
 
 [gimmick:theme (inverse: false)](spacelab)
