@@ -25,6 +25,4 @@
 
 [gimmick:theme (inverse: false)](spacelab)
 
-[gimmick:ThemeChooser](Change theme)
-
-[gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki/)
+[gimmick:forkmeongithub](http://github.com/ghaseminya/all)
