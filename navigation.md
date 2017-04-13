@@ -23,7 +23,7 @@
   * [Java EE](prog/j2ee.md)
   * [Java ME](prog/j2me.md)
 
-[gimmick:theme (inverse: false)](readable)
+[gimmick:theme](readable)
 
 [gimmick:ThemeChooser](Change theme)
 
